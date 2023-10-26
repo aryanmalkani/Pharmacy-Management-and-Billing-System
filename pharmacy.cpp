@@ -50,7 +50,7 @@ class secure
         cin >> password;
 
         system("CLS");
-        if(userName == "yogita" && password == "hello")
+        if(userName == "aryan" && password == "pharmacyapp")
         {
         	menu();
 		}
